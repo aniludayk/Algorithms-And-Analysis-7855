@@ -29,3 +29,6 @@ graph = {
 }
 print("Recursive DFS traversal from node A:")
 dfs_recursive(graph,'A')
+#OUTPUT:Recursive DFS traversal from node A:
+# A B D E F C 
+# {'A', 'B', 'C', 'D', 'E', 'F'}
