@@ -38,3 +38,6 @@ start = "A"
 end = "E"
 path_length = shortest_path_list(graph,start,end)
 print(f"the shortest path length from {start} to {end} is: {path_length}")
+
+#output: Shortest Path DFS
+#The shortest path length from A to E is: 2
